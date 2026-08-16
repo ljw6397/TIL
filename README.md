@@ -3,4 +3,4 @@
 
 # Example
 
-[Array](반복문\array.md)
+[Array](반복문/array.md)
