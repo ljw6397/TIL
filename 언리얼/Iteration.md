@@ -1,6 +1,6 @@
 # [Unreal] 반복문 기초 
 
-> TIL — 2026-08-9
+> TIL — 2026-08-10
 
 반복문 종류는 크게 3개: `for`, `foreach`, `while`. 오늘은 `for`, `while` 위주로 정리.
 
